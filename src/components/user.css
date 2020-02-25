@@ -1,0 +1,25 @@
+.butUpd {
+    background-color: yellow;
+    height: 35px;
+    margin: 10px;
+}
+
+.butDel {
+    height: 35px;
+    background-color: red;
+}
+
+.usr {
+    /* width: 50vw; */
+    /* height: 20vw; */
+
+    width: 450px;
+    left: 150px;
+    /* border-left: 10px; */
+    border-width: 1px;
+    border-color: red;
+    background-color: white;
+    position: relative;
+    /* padding: 40px; */
+    margin: 30px;
+}
